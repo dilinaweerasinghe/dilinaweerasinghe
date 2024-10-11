@@ -1,13 +1,16 @@
-<h1 align="center">Hi 👋, I'm Nimanthi Jayathilake</h1>
+<h1 align="center">Hi 👋, I'm Dilina Weerasinghe</h1>
 <h3 align="center">Full Stack Developer with a flair for crafting seamless user experiences and robust backend systems.</h3>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align="right" alt="Cording" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
 <br>
 
 - 👨🏽‍💻 I'm currently working at **IFS**
 
+- 👩🏻‍🎓 Studied Computer Science at the University of Ruhuna, Sri Lanka
+
 - 🌱 I’m currently learning **Microservice Architecture, PLSQL**
 
 - 📫 How to reach me **jayathilake.nimanthi99@gmail.com**
+
 
 <br>
 <br>
