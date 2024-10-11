@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dilina Weerasinghe</h1>
 <h3 align="center">Full Stack Developer with a flair for crafting seamless user experiences and robust backend systems.</h3>
-<br>
-<br>
-<img align="right" alt="Cording" width="200" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
 
+<img align="right" alt="Cording" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
+<br>
+<br>
 - 🔭 I’m currently working at **IFS**
 
 - 🌱 I’m currently learning **Microservice Architecture, Jenkins**
