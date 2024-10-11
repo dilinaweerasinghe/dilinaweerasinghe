@@ -4,6 +4,7 @@
 <img align="right" alt="Cording" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
 <br>
 <br>
+- 
 - 🔭 I’m currently working at **IFS**
 
 - 🌱 I’m currently learning **Microservice Architecture, Jenkins**
