@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Microservice Architecture, PLSQL**
 
-- 📫 How to reach me **jayathilake.nimanthi99@gmail.com**
+- 📫 How to reach me **weerasinghe.dilina683@gmail.com**
 
 
 <br>
